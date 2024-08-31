@@ -8,16 +8,3 @@
     <link rel="stylesheet" hfer="stiles.css">
     <title>AluraFlix</title>
  </head>
- <dead>
-body {
-  color: white;
-  background: blue;
-  margin: 0px;
-｝
-header {
-  border-bottom: solid 2px rgb(42, 122, 228); 
-  padding: 20px; 
-  font-size: 32px;
-  color: rgb (42, 122, 228);
-}
-</dead>
