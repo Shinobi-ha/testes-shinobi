@@ -8,6 +8,7 @@
     <link rel="stylesheet" hfer="stiles.css">
     <title>AluraFlix</title>
  </head>
+ <dead>
 body {
   color: white;
   background: blue;
@@ -19,3 +20,4 @@ header {
   font-size: 32px;
   color: rgb (42, 122, 228);
 }
+</dead>
